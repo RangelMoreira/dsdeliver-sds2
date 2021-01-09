@@ -1,0 +1,83 @@
+[33mcommit 46a4f8d3970adcc412630c91358dc76e8d5167cb[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Kevin Rangel Moreira <rangel.moreira@outlook.com>
+Date:   Fri Jan 8 14:29:19 2021 -0300
+
+    Search order location
+
+[33mcommit c8c1c8aa0ae90c7895d7b6cb8f63c4d602467fdb[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Kevin Rangel Moreira <rangel.moreira@outlook.com>
+Date:   Thu Jan 7 10:29:02 2021 -0300
+
+    Add routes and StepHeader
+
+[33mcommit ed6ca2792e6369bbc984ae8a3f2d40e3e0f17a6f[m
+Author: Kevin Rangel Moreira <rangel.moreira@outlook.com>
+Date:   Wed Jan 6 13:05:41 2021 -0300
+
+    Add Home Page
+
+[33mcommit a5f199ed6d88f22d282751ac11e77655fc88a4c0[m
+Author: Kevin Rangel Moreira <rangel.moreira@outlook.com>
+Date:   Wed Jan 6 12:14:17 2021 -0300
+
+    Add Navbar
+
+[33mcommit d819176e1bc605f767827458bb912f909ca1d2e6[m
+Author: Kevin Rangel Moreira <rangel.moreira@outlook.com>
+Date:   Wed Jan 6 11:02:04 2021 -0300
+
+    Create front-web initial files
+
+[33mcommit 2995e9be4b7565daeb8051bcae107c33a5fe06ed[m
+Author: Kevin Rangel Moreira <rangel.moreira@outlook.com>
+Date:   Tue Jan 5 13:35:48 2021 -0300
+
+    Fixing System.properties
+
+[33mcommit ef0a6e883efe03f5d840dfac51bfbc922ee4015c[m
+Author: Kevin Rangel Moreira <rangel.moreira@outlook.com>
+Date:   Tue Jan 5 11:10:56 2021 -0300
+
+    Ready to prod
+
+[33mcommit 531547cd7d115f95d4e49d8b3f38726a7152ab7a[m
+Author: Kevin Rangel Moreira <rangel.moreira@outlook.com>
+Date:   Tue Jan 5 10:14:38 2021 -0300
+
+    PUT /orders/{id}/delivered
+
+[33mcommit 23adba983a3b2955269f0d52aea94d85a7d9c8c6[m
+Author: Kevin Rangel Moreira <rangel.moreira@outlook.com>
+Date:   Tue Jan 5 09:44:19 2021 -0300
+
+    POST /orders
+
+[33mcommit 60af71132835bb93afc5b11ddcaac4d763a08aab[m
+Author: Kevin Rangel Moreira <rangel.moreira@outlook.com>
+Date:   Mon Jan 4 16:43:12 2021 -0300
+
+    GET/ORDERS
+
+[33mcommit 6a470df0de56954b3967a776ed01a91be248a9f2[m
+Author: Kevin Rangel Moreira <rangel.moreira@outlook.com>
+Date:   Mon Jan 4 15:53:08 2021 -0300
+
+    GET / products
+
+[33mcommit ae76ca73d700bdffd2d8a40a97e01625068634e2[m
+Author: Kevin Rangel Moreira <rangel.moreira@outlook.com>
+Date:   Mon Jan 4 14:23:32 2021 -0300
+
+    Domain model
+
+[33mcommit 62aa3ec055f61547f44694715944bc7c168b73d5[m
+Author: Kevin Rangel Moreira <rangel.moreira@outlook.com>
+Date:   Mon Jan 4 11:00:25 2021 -0300
+
+    Initial Setup
+
+[33mcommit edcdf908d5e52adbe6d474f15e78d8f236098c06[m
+Author: Kevin Rangel Moreira <rangel.moreira@outlook.com>
+Date:   Mon Jan 4 09:49:44 2021 -0300
+
+    Project created
