@@ -73,5 +73,5 @@ yarn start
 
 Kevin Rangel Moreira
 
-https://www.linkedin.com/in/kevin-rangel-moreira-a282b780/
+https://www.linkedin.com/in/kevin-rangel-moreira/
 
